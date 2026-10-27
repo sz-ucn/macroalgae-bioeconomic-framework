@@ -1,0 +1,20 @@
+{
+  "title": "A reproducible continuous-time bioeconomic framework for the economic appraisal of commercial macroalgae cultivation",
+  "description": "Reproducibility package accompanying the revised manuscript. It contains the Python source code, input parameters, automated regression tests, cohort schedules, numerical outputs, and the script-generated Figure 4. The package implements a deterministic, farm-level continuous-time bioeconomic framework for commercial macroalgae cultivation.",
+  "creators": [
+    {
+      "name": "Zuniga-Jara, Sergio",
+      "affiliation": "Universidad Catolica del Norte, Chile"
+    }
+  ],
+  "keywords": [
+    "macroalgae cultivation",
+    "bioeconomics",
+    "continuous-time modelling",
+    "economic appraisal",
+    "reproducibility"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open"
+}
