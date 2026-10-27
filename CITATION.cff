@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "A reproducible continuous-time bioeconomic framework for the economic appraisal of commercial macroalgae cultivation"
+version: 1.0.0
+date-released: 2026-10-26
+authors:
+  - family-names: "Zuniga-Jara"
+    given-names: "Sergio"
+license: "MIT"
+url: "https://github.com/sz-ucn/macroalgae-bioeconomic-framework"
