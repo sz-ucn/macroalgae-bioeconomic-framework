@@ -1,0 +1,22 @@
+{
+  "horizon_days": 3650,
+  "time_step_days": 1,
+  "cycle_days": 120,
+  "sowing_interval_days": 30,
+  "initial_biomass_kg": 50.0,
+  "carrying_capacity_kg": 500.0,
+  "gompertz_rate_per_day": 0.025,
+  "mortality_fraction": 0.05,
+  "biomass_yield_multiplier": 1.0,
+  "sale_price_per_kg": 1.2,
+  "sowing_cost_per_cohort": 100.0,
+  "harvest_cost_per_kg": 0.2,
+  "daily_fixed_cost": 8.0,
+  "initial_investment": 12000.0,
+  "replacement_interval_days": 1825,
+  "replacement_fraction": 0.35,
+  "asset_depreciation_life_days": 1825,
+  "residual_value_fraction": 0.1,
+  "annual_discount_rate": 0.08,
+  "tax_rate": 0.0
+}
